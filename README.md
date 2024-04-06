@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E8%BD%B6%E9%9A%86-yellow)](https://www.zhihu.com/people/yi-long-82-65)
 
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+
 ![](https://img.shields.io/badge/热爱-学习-yellow) 
 ![](https://img.shields.io/badge/性格-安静-blue) 
 ![](https://img.shields.io/badge/喜好-二次元_熊猫头_修仙-red)
-
+[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 </div>
 
 ![头像](image/头像.png)
