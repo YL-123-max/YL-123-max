@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+![](https://img.shields.io/badge/热爱-学习-yellow) 
+![](https://img.shields.io/badge/性格-安静-blue) 
+![](https://img.shields.io/badge/喜好-二次元_熊猫头_修仙-red)
 
 </div>
 
